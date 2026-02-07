@@ -22,12 +22,6 @@ simple and a􀆯ordable.
 7) Breadboard
 8) Few Jumper Wires
 
-# Component                            #   Arduino Pin
-Green LED (Long leg → resistor → pin)       Pin 6
-Red LED (Long leg → resistor → pin)         Pin 7
-Buzzer                                      Pin 8
-All negative legs (short)                    GND
-
 # Customizable Parameters in Python Code
 
 # 1) Serial Port Configuration
